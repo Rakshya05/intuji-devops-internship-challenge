@@ -11,6 +11,11 @@ Command to see docker images and container:
  Another way to install docker:
 ![docker install](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/a2a91a94-605e-4f96-a6ab-842848e6b9cd)
 
+Task 2:
+first copy the code to an php file:
+then create an docker file and write code in docker file for docker image:
+then run command in terminal:
+
 
 
 
