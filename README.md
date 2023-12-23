@@ -13,8 +13,15 @@ Command to see docker images and container:
 
 Task 2:
 first copy the code to an php file:
+![file which will make docker image](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/e81f485d-9107-4c13-ad06-cca46785073b)
+
 then create an docker file and write code in docker file for docker image:
+![script to make new docker image](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/fdc73a71-feac-4821-b49d-f4fa011212ef)
+
 then run command in terminal:
+![terminal which build docker images](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/6ba0a070-0a98-4ec1-ad94-6cd6ab5ae59f)
+![image of running docker](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/e1f20117-f4fd-4d52-ab56-e5fd3dacc7c4)
+
 
 
 
