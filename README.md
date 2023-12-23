@@ -22,6 +22,10 @@ then run command in terminal:
 ![terminal which build docker images](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/6ba0a070-0a98-4ec1-ad94-6cd6ab5ae59f)
 ![image of running docker](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/e1f20117-f4fd-4d52-ab56-e5fd3dacc7c4)
 
+The command which is used to push docker images to dockerhub:
+![pushing docker images to docker hub](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/1ab21ccf-5f38-4b9e-9cef-bbefb80f044b)
+![pushing docker images to docker hub2](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/e55fa7e6-8fee-4d98-9817-11e45010c1a3)
+
 
 
 
