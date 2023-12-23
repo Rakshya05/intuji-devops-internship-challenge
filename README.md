@@ -26,6 +26,11 @@ The command which is used to push docker images to dockerhub:
 ![pushing docker images to docker hub](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/1ab21ccf-5f38-4b9e-9cef-bbefb80f044b)
 ![pushing docker images to docker hub2](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/e55fa7e6-8fee-4d98-9817-11e45010c1a3)
 
+Docker-compose file for an applications:
+![qno 3](https://github.com/Rakshya05/intuji-devops-internship-challenge/assets/135014386/ca0a9ae7-f9dc-44eb-a039-90d4e258205b)
+
+
+
 
 
 
